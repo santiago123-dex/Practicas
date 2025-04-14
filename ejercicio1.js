@@ -5,6 +5,7 @@ function menu(){
     let opcion
     do{
         opcion = Number(prompt("\n1 Agregar producto \n2 Mostrar inventario \n3 Buscar producto"))
+
         switch(opcion){
             case 1:
                 agregarProducto()
