@@ -23,8 +23,8 @@ let persona = {
     }
 }
 
-
-persona.nombre = "L"
+console.log(persona.nombre)
+persona.nombre = "Luis"
 console.log(persona.nombre)
 console.log(persona.edad)
 persona.edad = "-30"
