@@ -1,0 +1,21 @@
+{
+    "name" : "Santi",
+    "age" : 25,
+    "course" : {
+        "name" : "Python",
+        "duration" : 3,
+        "language" : "English"
+    },
+    "subjects" : [
+        {
+            "name" : "Python",
+            "duration" : 3,
+            "language" : "English"
+        },
+        {
+            "name" : "Java",
+            "duration" : 4,
+            "language" : "English"
+        }
+    ]
+}
