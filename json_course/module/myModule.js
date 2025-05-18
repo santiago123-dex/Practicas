@@ -1,5 +1,5 @@
 const web = "fajis.com"
-const myWeb = [10, 20, 30]
+const myArray = [10, 20, 30]
 const user = {
     name: "Santi",
     edad: 17
@@ -11,8 +11,17 @@ const user = {
 //     user : user
 // }
 
+
+ //exportar los todos los modulos de una
 module.exports = {
     web,
-    myWeb,
+    myArray,
     user
 }
+
+//exportar modulos de maner indivudual 
+
+/* 
+module.exports.user = user
+module.exports.paginaWeb = we
+module.exports.array = myArray */
