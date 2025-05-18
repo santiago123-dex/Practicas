@@ -1,0 +1,34 @@
+#boton1{
+    color: red
+}
+
+#boton2{
+    color:aqua;
+}
+
+#boton3{
+    color: antiquewhite;
+}
+
+#boton4{
+    color: beige;
+}
+
+#boton5{
+    color: #fff;
+}
+.fondo1{
+    background-color: red;
+}
+.fondo2{
+    background-color: aqua;
+}
+.fondo3{
+    background-color: antiquewhite;
+}
+.fondo4{
+    background-color: beige;
+}
+.fondo5{
+    background-color: #fff;
+}
